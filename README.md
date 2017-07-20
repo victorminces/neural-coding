@@ -1,2 +1,2 @@
 # neural-coding
-organizesLoopBinSizePNAS creates the real data analysis figures in "Cholinergic Shaping of Neural Correlations".
+organizesLoopBinSizePNAS creates the figures corresponding to the analysis of the neural data. From "Cholinergic Shaping of Neural Correlations".
